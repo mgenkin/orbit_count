@@ -19,16 +19,14 @@ Counting orbits.  First the n-holed sphere, next the we conquer the world.
 ## Classes
 
 - SphereOrbit
-..* AdjacencyMatrix (2d array)
-..* BasePointDiagram
-..* bunch of Face
-..* comparator method
+  * AdjacencyMatrix (2d array)
+  * BasePointDiagram
+  * bunch of Face
+  * comparator method
 
 - Face
-
-..* comparator method
+  * comparator method
 
 - BasepointDiagram
-
-..* comparator method (maybe)
+  * comparator method (maybe)
 
