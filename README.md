@@ -4,7 +4,7 @@ Counting orbits.  First the n-holed sphere, next the we conquer the world.
 
 ## Algorithm
 
-- generate basepoint diagrams for self-intersection n
+- Generate basepoint diagrams for self-intersection n
 
 - Generate graphs for each basepoint diagram (decide edge connectivity)
 
@@ -20,13 +20,19 @@ Counting orbits.  First the n-holed sphere, next the we conquer the world.
 
 - SphereOrbit
 
-.. AdjacencyMatrix (2d array)
+..* AdjacencyMatrix (2d array)
 
-.. BasePointDiagram
+..* BasePointDiagram
 
-.. bunch of Face
+..* bunch of Face
+
+..* comparator method
 
 - Face
 
+..* comparator method
+
 - BasepointDiagram
+
+..* comparator method (maybe)
 
